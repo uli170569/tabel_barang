@@ -1,0 +1,2 @@
+001|Barang A|10000|12000|50|https://via.placeholder.com/80  
+002|Barang B|15000|17000|30|https://via.placeholder.com/80  
